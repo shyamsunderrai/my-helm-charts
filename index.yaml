@@ -6,7 +6,7 @@ entries:
       licenses: Apache-2.0
     apiVersion: v2
     appVersion: 3.4.0
-    created: "2023-05-14T19:14:46.581347+08:00"
+    created: "2023-05-14T19:53:59.292849+08:00"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -20,7 +20,7 @@ entries:
     description: Apache Kafka is a distributed streaming platform designed to build
       real-time pipelines and can be used as a message broker or as a replacement
       for a log aggregation solution for big data applications.
-    digest: 4729844aa3816d5209102bf5a8232ef7bfcb4eefffedcfc34167bd5c6e757395
+    digest: 55c3e5fa0d0a1c545154e63b46b7d6c0aa25022116d83d28f98849b4b6c9c3dc
     home: https://bitnami.com
     icon: https://bitnami.com/assets/stacks/kafka/img/kafka-stack-220x234.png
     keywords:
@@ -38,4 +38,4 @@ entries:
     urls:
     - https://github.com/shyamsunderrai/my-helm-charts/kafka-22.1.1.tgz
     version: 22.1.1
-generated: "2023-05-14T19:14:46.568624+08:00"
+generated: "2023-05-14T19:53:59.282355+08:00"
