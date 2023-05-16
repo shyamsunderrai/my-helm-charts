@@ -6,7 +6,7 @@ entries:
       licenses: Apache-2.0
     apiVersion: v2
     appVersion: 3.4.0
-    created: "2023-05-14T19:53:59.292849+08:00"
+    created: "2023-05-16T22:52:08.309591+08:00"
     dependencies:
     - condition: zookeeper.enabled
       name: zookeeper
@@ -38,4 +38,4 @@ entries:
     urls:
     - https://github.com/shyamsunderrai/my-helm-charts/kafka-22.1.1.tgz
     version: 22.1.1
-generated: "2023-05-14T19:53:59.282355+08:00"
+generated: "2023-05-16T22:52:08.299366+08:00"
